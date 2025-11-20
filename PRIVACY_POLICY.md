@@ -69,8 +69,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [Your Email Address]  
-**Website:** [Your Website or GitHub Repository URL]
+**Email:** [chad-garner@hotmail.co.uk]  
+**Website:** [https://github.com/chadg90/YummysTakeAwayOrderRoleplay/blob/main/PRIVACY_POLICY.md]
 
 ## Compliance
 
